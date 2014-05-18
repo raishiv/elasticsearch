@@ -1,5 +1,7 @@
 #!/bin/sh
 
+#HAHA Test
+
 # OPTIONS:
 #   -d: daemonize, start in the background
 #   -p <filename>: log the pid to a file (useful to kill it later)
